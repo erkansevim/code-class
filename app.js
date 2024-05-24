@@ -18,3 +18,8 @@ while (counter<names.length){
     console.log(names[counter]);
     counter++
 }
+
+
+//---------
+
+names.forEach(i=>console.log(i))
